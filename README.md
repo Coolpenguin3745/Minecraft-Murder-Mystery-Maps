@@ -4,7 +4,37 @@ The maps are all up to date, with all the commands with appropriate roles, textu
 I want this project to be where people can add maps that they have, so everyone can have access to them. So if you have any maps please share.
 I will have a video down below on how to add files to this project:
 
-There is a total of roles. Here is the description for each one:
+# Rules and how to play Murder Mystery.
+
+How to play Minecraft Murder Mystery:
+
+Each player goes through the Randomiser & gets a book.They must not read their book to anyone! If you're Innocent you must find & kill the murderer! But if you're the murderer, you must stealthily kill the other players to win! Don't trust ANYONE! They might be the murderer! If your play Murder Mystery 2, the same rules and way how to applies, but now if you get the Murderer book. You pass to someone else to be your partner.
+
+Rules:
+
+1. Gamertags and
+death-messages
+are off
+
+2. You don't
+talk if you've
+been killed by 
+the murderer!
+
+3. If thea
+murderer dies, 
+they MUST say
+so
+
+4. Everyone must
+be able to
+communicate to
+each other
+
+
+# Roles
+
+There is a total of 18 roles. Here is the description for each one:
 
 ## Innocent:
 
