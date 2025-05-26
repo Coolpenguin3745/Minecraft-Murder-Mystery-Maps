@@ -6,11 +6,11 @@ I will have a video down below on how to add files to this project:
 
 # Rules and how to play Murder Mystery.
 
-How to play Minecraft Murder Mystery:
+### How to play Minecraft Murder Mystery:
 
 Each player goes through the Randomiser & gets a book.They must not read their book to anyone! If you're Innocent you must find & kill the murderer! But if you're the murderer, you must stealthily kill the other players to win! Don't trust ANYONE! They might be the murderer! If your play Murder Mystery 2, the same rules and way how to applies, but now if you get the Murderer book. You pass to someone else to be your partner.
 
-Rules:
+### Rules:
 
 1. Gamertags and
 death-messages
