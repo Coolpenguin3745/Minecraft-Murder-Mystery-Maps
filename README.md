@@ -21,7 +21,7 @@ talk if you've
 been killed by 
 the murderer!
 
-3. If thea
+3. If all the
 murderer dies, 
 they MUST say
 so
