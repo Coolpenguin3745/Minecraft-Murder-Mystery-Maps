@@ -107,3 +107,8 @@ The Vampire is a neutral killer who can turn people they kill into other Vampire
 ## Executioner:
 
 The Executioner is similar to the Assassin in which they have a target that they must kill to win. They can only kill that person first unless they are attacked, and they can't kill until someone else dies. Once they kill their target, they act like an innocent for the rest of the game
+
+## Thief
+
+As the Thief, you take the role of almost any role you pass your book to.
+If Innocent, you become their role and they become a regular innocent. If Neutral, you become their role and they become a Survivor who's only goal is to be a bystander and survive until the end of the round. If a Murderer or Neutral Killer, you don't become their role and the next time you see each other you will fight.
