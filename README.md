@@ -50,7 +50,7 @@ The Jester can only hit with their bow. The goal is to get killed. You can only 
 
 ## Soul:
 
-The Soul gives you a second life. You go through a timer and return as a soul, but you can not talk at all in your second life.
+The Soul gives you a second life. You go through a timer and return as a soul, but you can not talk at all in your second life. On the second life you can not speak unless they are one of the final two or if they have the ghost role.
 
 ## Medium:
 
@@ -58,7 +58,7 @@ The Medium is an innocent role that can speak to the dead and ask them questions
 
 ## Altruist:
 
-The Altruist is an innocent role that can sacrifice their life to bring back a dead player (not including the soul) in their stead.
+The Altruist is an innocent role that can sacrifice their life to bring back a dead player (not including the soul) in their stead. The person brought back to life can not speak unless they are one of the final two or if they have the ghost role.
 
 ## Detective:
 
@@ -94,7 +94,7 @@ The serial killer is a neutral killer who becomes active after a murderer has di
 
 ## Necromancer:
 
-The Necromancer is a neutral killer that kills indirectly. After a player dies, they become active and can choose to summon a dead player back to life to go through the necromancer timer and start killing everyone besides the necromancer in order to win. If the summoned dies, they lose, and if the necromancer dies, the summoned dies too.
+The Necromancer is a neutral killer that kills indirectly. After a player dies, they become active and can choose to summon a dead player back to life to go through the necromancer timer and start killing everyone besides the necromancer in order to win. If the summoned dies, they lose, and if the necromancer dies, the summoned dies too. The summon can not speak at all unless they have the ghost role.
 
 ## Investigator:
 
@@ -102,7 +102,7 @@ The Investigator can message alive players if they've interacted with a dead per
 
 ## Vampire:
 
-The Vampire is a neutral killer who can turn people they kill into other Vampires once a murderer dies. Only the Alpha Vampire can turn people, and they all die when the Alpha does. 
+The Vampire is a neutral killer who can turn people they kill into other Vampires once a murderer dies. Only the Alpha Vampire can turn people, and they all die when the Alpha does. Vampires can not speak at all unless they are the last Vampire or if they have the ghost role.
 
 ## Executioner:
 
