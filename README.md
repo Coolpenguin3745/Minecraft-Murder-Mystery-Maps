@@ -78,7 +78,7 @@ The bodyguard is a neutral role who has a target they must protect. They can't j
 
 ## Ghost:
 
-The Ghost is a neutral role that has to get themselves killed and fake being alive. They can't kill or say that they've died. While pretending to be alive, other people can decide to vote if they feel there is a ghost around. If they vote correctly, the ghost loses, but if they vote incorrectly, the ghost wins. If they don't vote at all, the ghost also wins.
+The Ghost is a neutral role that has to get themselves killed and fake being alive. They can't kill or say that they've died. While pretending to be alive, other people can decide to vote if they feel there is a ghost around. If they vote correctly, the ghost loses, but if they vote incorrectly, the ghost wins. If they don't vote at all, the ghost also wins. The player who kills the player with the Ghost role, can not start the voting process, and can not vote as well.
 
 ## Lover:
 
