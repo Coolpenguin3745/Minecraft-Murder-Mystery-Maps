@@ -34,7 +34,7 @@ each other
 
 # Roles
 
-There is a total of 18 roles. Here is the description for each one:
+There is a total of 19 roles. Here is the description for each one:
 
 ## Innocent:
 
