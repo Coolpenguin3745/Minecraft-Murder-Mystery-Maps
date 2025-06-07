@@ -44,10 +44,6 @@ The Innocent is a default player who tries to stay alive and find out who the mu
 
 The murderer is the main killer role. Your goal is to kill all of the players without getting caught.
 
-## Jester:
-
-The Jester can only hit with their bow. The goal is to get killed. You can only use your sword if attacked by a Killer role.
-
 ## Soul:
 
 The Soul gives you a second life. You go through a timer and return as a soul, but you can not talk at all in your second life. On the second life you can not speak unless they are one of the final two or if they have the ghost role.
