@@ -114,21 +114,41 @@ If Innocent, you become their role and they become a regular innocent. If Neutra
 # Color Fonts for Each Role
 
 Medium: §9
+
 Altruist: §n
+
 Detective: §t
+
 Revealer: §g?
+
 Assassin: §c
+
 Bodyguard: §b
+
 Ghost: §l§f
+
 Lover: §d
+
 The Divorce: §5
+
 Doppelganger: §3
+
 Necromancer: §7
+
 Investigator: §2
+
 Main Vampire: §j
+
 Vampire: §h
+
+Clear Vampire: §h
+
 Executioner: §e
+
 Soul: §1
+
 Murderer: §4
+
 Serial Killer: §8?
+
 Thief: §l §s
