@@ -1,4 +1,4 @@
-# Minecraft-Murder-Mystery-Maps
+# Minecraft-Murder-Mystery-Maps-and-Game-Information
 A community project repository to add and have a bunch of Minecraft Murder Mystery maps for the Bedrock Edition so that every can easily get access to all the maps.
 The maps are all up to date, with all the commands with appropriate roles, texture pack, chat-hider, and no name tags.
 I want this project to be where people can add maps that they have, so everyone can have access to them. So if you have any maps please share.
