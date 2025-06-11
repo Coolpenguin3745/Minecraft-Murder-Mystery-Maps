@@ -152,3 +152,7 @@ Murderer: §4
 Serial Killer: §8?
 
 Thief: §l §s
+
+## To get back to the main page:
+
+https://github.com/Coolpenguin3745/Minecraft-Gamemodes-Maps
