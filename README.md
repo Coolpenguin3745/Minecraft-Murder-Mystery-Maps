@@ -153,6 +153,6 @@ Serial Killer: §8?
 
 Thief: §l §s
 
-## To get back to the main page:
+## To Get Back To The Main Page:
 
 https://github.com/Coolpenguin3745/Minecraft-Gamemodes-Maps
