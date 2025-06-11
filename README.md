@@ -110,3 +110,25 @@ The Executioner is similar to the Assassin in which they have a target that they
 
 As the Thief, you take the role of almost any role you pass your book to.
 If Innocent, you become their role and they become a regular innocent. If Neutral, you become their role and they become a Survivor who's only goal is to be a bystander and survive until the end of the round. If a Murderer or Neutral Killer, you don't become their role and the next time you see each other you will fight.
+
+# Color Fonts for Each Role
+
+Medium: §9
+Altruist: §n
+Detective: §t
+Revealer: §g?
+Assassin: §c
+Bodyguard: §b
+Ghost: §l§f
+Lover: §d
+The Divorce: §5
+Doppelganger: §3
+Necromancer: §7
+Investigator: §2
+Main Vampire: §j
+Vampire: §h
+Executioner: §e
+Soul: §1
+Murderer: §4
+Serial Killer: §8?
+Thief: §l §s
