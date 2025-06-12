@@ -1,8 +1,8 @@
 # Minecraft-Murder-Mystery-Maps-and-Game-Information
 
-A community project repository to add and have a bunch of Minecraft Murder Mystery maps for the Bedrock Edition so that everyone can easily get access to all the maps.
+A community project repository to add and have a bunch of Minecraft Murder Mystery maps for the Bedrock Edition, so that everyone can easily get access to all the maps.
 The maps are all up to date, with all the commands with appropriate roles, texture pack, chat-hider, and no name tags.
-I want this project to be where people can add maps that they have, so everyone can have access to them. So if you have any maps please share.
+I want this project to be where people can add maps that they have, so everyone can have access to them. So if you have any maps, please share.
 I will have a video down below on how to add files to this project:
 
 Video will be posted soon
@@ -11,29 +11,17 @@ Video will be posted soon
 
 ### How to play Minecraft Murder Mystery:
 
-Each player goes through the Randomiser & gets a book.They must not read their book to anyone! If you're Innocent you must find & kill the murderer! But if you're the murderer, you must stealthily kill the other players to win! Don't trust ANYONE! They might be the murderer! If your play Murder Mystery 2, the same rules and way how to applies, but now if you get the Murderer book. You pass to someone else to be your partner.
+Each player goes through the Randomiser & gets a book. They must not read their book to anyone! If you're Innocent, you must find & kill the murderer! But if you're the murderer, you must stealthily kill the other players to win! Don't trust ANYONE! They might be the murderer! If you play Murder Mystery 2, the same rules and way how to applies, but now if you get the Murderer book. You pass it to someone else to be your partner.
 
 ### Rules:
 
-1. Gamertags and
-death-messages
-are off
+1. Gamertags and death messages are off.
 
-2. You don't
-talk if you've
-been killed by 
-the murderer!
+2. You don't talk if you've been killed, unless told otherwise or have a role that lets you.
 
-3. If all the
-murderer dies, 
-they MUST say
-so
+3. If all the murderer dies, they MUST say so.
 
-4. Everyone must
-be able to
-communicate to
-each other
-
+4. Everyone must be able to communicate with each other.
 
 # Roles
 
@@ -49,7 +37,7 @@ The murderer is the main killer role. Your goal is to kill all of the players wi
 
 ## Soul:
 
-The Soul gives you a second life. You go through a timer and return as a soul, but you can not talk at all in your second life. On the second life you can not speak unless they are one of the final two or if they have the ghost role.
+The Soul gives you a second life. You go through a timer and return as a soul, but you can not talk at all in your second life. On the second life, you can not speak unless they are one of the final two or they have the ghost role.
 
 ## Medium:
 
@@ -77,7 +65,7 @@ The bodyguard is a neutral role who has a target they must protect. They can't j
 
 ## Ghost:
 
-The Ghost is a neutral role that has to get themselves killed and fake being alive. They can't kill or say that they've died. While pretending to be alive, other people can decide to vote if they feel there is a ghost around. If they vote correctly, the ghost loses, but if they vote incorrectly, the ghost wins. If they don't vote at all, the ghost also wins. The player who kills the Ghost, can not start or participate in the voting process.
+The Ghost is a neutral role that has to get themselves killed and fake being alive. They can't kill or say that they've died. While pretending to be alive, other people can decide to vote if they feel there is a ghost around. If they vote correctly, the ghost loses, but if they vote incorrectly, the ghost wins. If they don't vote at all, the ghost also wins. The player who kills the Ghost can not start or participate in the voting process.
 
 ## Lover:
 
@@ -110,9 +98,13 @@ The Executioner is similar to the Assassin in which they have a target that they
 ## Thief
 
 As the Thief, you take the role of almost any role you pass your book to.
-If Innocent, you become their role and they become a regular innocent. If Neutral, you become their role and they become a Survivor who's only goal is to be a bystander and survive until the end of the round. If a Murderer or Neutral Killer, you don't become their role and the next time you see each other you will fight.
+If Innocent, you become their role, and they become a regular innocent. If Neutral, you become their role, and they become a Survivor whose only goal is to be a bystander and survive until the end of the round. If a Murderer or Neutral Killer, you don't become their role, and the next time you see each other,r you will fight.
 
 # Color Fonts for Each Role
+
+Innocent: §a
+
+Murderer: §4
 
 Medium: §9
 
@@ -148,11 +140,9 @@ Executioner: §e
 
 Soul: §1
 
-Murderer: §4
-
 Serial Killer: §8?
 
-Thief: §l §s
+Thief: §l§s
 
 ## To Get Back To The Main Page:
 
