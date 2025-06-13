@@ -89,7 +89,7 @@ The Investigator can message alive players if they've interacted with a dead per
 
 ## Vampire:
 
-The Vampire is a neutral killer who can turn people they kill into other Vampires once a murderer dies. Only the Alpha Vampire can turn people, and they all die when the Alpha does. Vampires can not speak at all unless they are the last Vampire or if they have the ghost role.
+The Vampire is a neutral killer who can turn people they kill into other Vampires once a murderer dies. Only the Alpha Vampire can turn people, and they all die when the Alpha does. Vampires go through the Necromancer timer. Vampires can not speak at all unless they are the last Vampire or if they have the ghost role.
 
 ## Executioner:
 
