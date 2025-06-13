@@ -5,7 +5,7 @@ The maps are all up to date, with all the commands with appropriate roles, textu
 I want this project to be where people can add maps that they have, so everyone can have access to them. So if you have any maps, please share.
 I will have a video down below on how to add files to this project:
 
-Video will be posted soon
+https://youtu.be/-Uy4A0PXwF0
 
 # Rules and how to play Murder Mystery.
 
