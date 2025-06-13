@@ -33,7 +33,7 @@ The Innocent is a default player who tries to stay alive and find out who the mu
 
 ## Murderer:
 
-The murderer is the main killer role. Your goal is to kill all of the players without getting caught.
+The Murderer is the main killer role. Your goal is to kill all of the players without getting caught.
 
 ## Soul:
 
@@ -53,15 +53,15 @@ The Detective is an innocent role that can investigate the deaths of players by 
 
 ## Revealer:
 
-The revealer is an innocent role that can pass their book to another player, and that person will message them their role. If it's a murderer, they can't fight until they see each other again. If the person they chose had their role changed, they would only message the original role. They are not allowed to say what role it is until after that person dies
+The Revealer is an innocent role that can pass their book to another player, and that person will message them their role. If it's a murderer, they can't fight until they see each other again. If the person they chose had their role changed, they would only message the original role. They are not allowed to say what role it is until after that person dies
 
 ## Assassin:
 
-The assassin is a neutral role who has to kill one of two targets (usually the first unless they die or are the assassin themselves). They can only kill their target, and after completion, they are basically just a bystander who doesn't need to die for the main teams to win.
+The Assassin is a neutral role who has to kill one of two targets (usually the first unless they die or are the assassin themselves). They can only kill their target, and after completion, they are basically just a bystander who doesn't need to die for the main teams to win.
 
 ## Bodyguard:
 
-The bodyguard is a neutral role who has a target they must protect. They can't just stick around them, but if they're attacked, you can assist. As long as your protected person stays alive after a murderer has died, you win, even if you die.
+The Bodyguard is a neutral role who has a target they must protect. They can't just stick around them, but if they're attacked, you can assist. As long as your protected person stays alive after a murderer has died, you win, even if you die.
 
 ## Ghost:
 
@@ -69,11 +69,11 @@ The Ghost is a neutral role that has to get themselves killed and fake being ali
 
 ## Lover:
 
-The Lover is a neutral role that presses a button to decide who their lover will be. The two lovers must work together to survive until they get to the final 3, upon which they will win together. However, if one lover dies, the other lover dies too, unless it's a murderer or an active neutral killer.
+The Lover is a neutral role that presses a button to decide who their lover will be. The two Lovers must work together to survive until they get to the final 3, upon which they will win together. However, if one Lover dies, the other Lover dies too, unless it's a murderer or an active neutral killer.
 
 ## Doppelganger:
 
-The doppelganger is a neutral role that can duplicate a role by passing their book. Once doing so, the doppelganger joins the other player in their role.
+The Doppelganger is a neutral role that can duplicate a role by passing their book. Once doing so, the Doppelganger joins the other player in their role.
 
 ## Serial Killer:
 
@@ -81,7 +81,7 @@ The serial killer is a neutral killer who becomes active after a murderer has di
 
 ## Necromancer:
 
-The Necromancer is a neutral killer that kills indirectly. After a player dies, they become active and can choose to summon a dead player back to life to go through the necromancer timer and start killing everyone besides the necromancer in order to win. If the summoned dies, they lose, and if the necromancer dies, the summoned dies too. The summon can not speak at all unless they have the ghost role.
+The Necromancer is a neutral killer that kills indirectly. After a player dies, they become active and can choose to summon a dead player back to life to go through the necromancer timer and start killing everyone besides the Necromancer in order to win. If the summoned dies, they lose, and if the Necromancer dies, the summoned dies too. The summon can not speak at all unless they have the ghost role.
 
 ## Investigator:
 
