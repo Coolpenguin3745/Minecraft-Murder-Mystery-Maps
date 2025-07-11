@@ -49,7 +49,7 @@ The Altruist is an innocent role that can sacrifice their life to bring back a d
 
 ## Detective:
 
-The Detective is an innocent role that can investigate the deaths of players by asking for their killers in a message. The dead player will provide 3 names(2 if it's mm1), one of which is the real killer and the others being decoys. If the detective correctly eliminates the other names, they are allowed to kill their killer.
+The Detective is an innocent role that can investigate the deaths of players by asking for their killers in a message. The dead player will provide 3 names(2 if it's mm1), one of which is the real killer and the others being decoys. If the detective correctly eliminates the other names, they are allowed to kill their killer. Any Neutral Killer or Killer Role can lie to the Detective about who killed them.
 
 ## Revealer:
 
@@ -85,7 +85,7 @@ The Necromancer is a neutral killer that kills indirectly. After a player dies, 
 
 ## Investigator:
 
-The Investigator can message alive players if they've interacted with a dead person recently with. Only 3 uses per round
+The Investigator can message alive players if they've interacted with a dead person recently with. Only 3 uses per round. After two minutes, any role can lie about interacting with a dead person.
 
 ## Vampire:
 
