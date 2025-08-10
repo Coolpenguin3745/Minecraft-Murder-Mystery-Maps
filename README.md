@@ -25,7 +25,7 @@ Each player goes through the Randomiser & gets a book. They must not read their 
 
 # Roles
 
-There is a total of 18 roles. Here is the description for each one:
+There is a total of 19 roles. Here is the description for each one:
 
 ## Innocent:
 
@@ -100,6 +100,10 @@ The Executioner is similar to the Assassin in which they have a target that they
 As the Thief, you take the role of almost any role you pass your book to.
 If Innocent, you become their role, and they become a regular innocent. If Neutral, you become their role, and they become a Survivor whose only goal is to be a bystander and survive until the end of the round. If a Murderer or Neutral Killer, you don't become their role, and the next time you see each other,r you will fight.
 
+## Amnesiac 
+
+The Amnesiac is a neutral role that has to wait for a player to die. Once someone else dies they can go the place of the player's death and collect their role by messaging that dead player to confirm that it was the correct place. Once they have the right place the amnesiac can message them for their role.
+
 # Color Fonts for Each Role
 
 Innocent: §a
@@ -143,6 +147,8 @@ Soul: §1
 Serial Killer: §8?
 
 Thief: §l§s
+
+Amnesiac: §u
 
 ## To Get Back To The Main Page:
 
